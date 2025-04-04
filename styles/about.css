@@ -1,0 +1,135 @@
+header{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+
+    padding: 20px; /*space on the inside*/
+    margin: 10px; /*space on the outside*/
+}
+
+nav{
+    background-color: teal;
+    padding: 10px;
+    
+}
+/*this CSS tag will not allow colouring the nav text, but will use auto colour such that the active nav bar is differently coloured*/
+/*nav ul li a {  
+    margin-left: 150px;
+    font-size: 30px;
+    display: inline;
+    font-weight: 700;
+    /*color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}*/
+
+nav ul li {
+    margin-left: 150px;
+    font-size: 30px;
+    display: inline;
+    font-weight: 700;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+nav img{
+    width: 100px;
+}
+
+.team img{
+    width: 150px;
+}
+
+
+
+.about{
+    border-width: 4px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: aliceblue;
+
+    padding: 20px; /*space on the inside*/
+    margin: 10px; /*space on the outside*/
+}
+
+.team{
+    border-width: 4px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: whitesmoke;
+
+    padding: 20px; /*space on the inside*/
+    margin: 10px; /*space on the outside*/
+}
+
+.enquiry{
+    border-width: 4px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: white;
+
+    padding: 20px; /*space on the inside*/
+    margin: 10px; /*space on the outside*/
+}
+
+h2{
+    color: teal;
+    font-size: 25px;
+
+}
+
+p{
+    font-size: 18px;
+}
+
+#teamh2{
+    color: goldenrod;
+    font-size: 25px;
+}
+
+#para{
+    color: red;
+    font-size: 18px;
+}
+
+#enquiryh2{
+    color: gold;
+    font-size: 25px;
+}
+
+#get{
+    color: blue;
+    font-size: 18px;
+}
+
+.btn1{
+    background-color: teal;
+    color: whitesmoke;
+    height: 28px;
+    /*width: 100px;*/
+}
+
+.btn2{
+    background-color: teal;
+    color: goldenrod;
+    height: 28px;
+    /*width: 100px;*/
+}
+
+.btn3{
+    background-color: gold;
+    color: red;
+    height: 28px;
+    /*width: 100px;*/
+}
+.btn{
+    margin-left: 25px;
+    padding: 5px;
+    background-color: red;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+span{
+    color: red;
+}

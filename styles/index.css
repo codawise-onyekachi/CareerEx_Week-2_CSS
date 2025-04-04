@@ -1,0 +1,36 @@
+main{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+    height: 800px;
+
+    padding: 10px; /*space on the inside*/
+    margin: 5px; /*space on the outside*/
+}
+
+header{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+
+    padding: 20px; /*space on the inside*/
+    margin: 10px; /*space on the outside*/
+}
+
+header img{
+    width: 100px;
+}
+
+section{
+    border-width: 4px;
+    border-style: solid;
+    border-color: aqua;
+
+    padding: 20px; /*space on the inside*/
+    margin: 10px; /*space on the outside*/
+    margin-top: 90px;
+}
+
+h1,h2{
+    color: teal;
+}
